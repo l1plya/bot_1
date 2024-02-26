@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('6354482324:AAFvREkJbX1Y3HMAiX3mWoDN4oNStrbk6Lg')
+bot = telebot.TeleBot('XXX')
 
 Order = []
 
